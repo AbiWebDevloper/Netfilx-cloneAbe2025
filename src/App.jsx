@@ -13,7 +13,7 @@
 // export default App;
 import React from "react";
 import "./App.css";
-import Home from "./Pages/Home/home";
+import Home from "././././Pages/Home/home";
 function App() {
   return (
     <>
